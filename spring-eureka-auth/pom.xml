@@ -5,7 +5,7 @@
 
 	<groupId>com.eureka.auth</groupId>
 	<artifactId>spring-eureka-auth</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>spring-eureka-auth</name>
@@ -47,12 +47,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>
 			<optional>true</optional>
-		</dependency>
-		
-		<dependency>
-			<groupId>com.eureka.common</groupId>
-			<artifactId>spring-eureka-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 
 		<dependency>
